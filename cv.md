@@ -1,12 +1,12 @@
 1. Dmitry Snapkov
-2. Mob. +375 44 545-04-64 (Viber, Telegram, Whatsapp)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+2. Mob. +375 44 545-04-64
+  * Viber 
+  * Telegram 
+  * Whatsapp
+3. I want to change my current job for maximize my income. 
+> Success is a science; if you have the conditions, you get the result.
+4. Skills: 1C:Enterprise script 
+5. I don't have code examples yet
+6. Experience: from 2009 to 2012 I was a 1C programmer
+7. **Education: Francisk Skorina Gomel State University, faculty of Physics and Information Technologies, Automated Systems of Information Processing Department.**
+8. I have English level A2
