@@ -12,7 +12,14 @@ I want to change my current job for maximize my income.
 > Success is a science; if you have the conditions, you get the result.  
 
 *Skills: 1C:Enterprise script*  
-__I don’t have code examples yet__  
+Code from Codewars  
+t`var countBits = function(n) {
+  // Program Me
+  if (n >= 0) {
+    let bin = n.toString(2);
+    return bin.split('1').length-1;
+  }
+};`  
 Experience: from 2009 to 2012 I was a 1C programmer  
-Education: Francisk Skorina Gomel State University, faculty of Physics and Information Technologies, Automated Systems of Information Processing Department.  
+__Education: Francisk Skorina Gomel State University, faculty of Physics and Information Technologies, Automated Systems of Information Processing Department.__  
 I have English level A2
