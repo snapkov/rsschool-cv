@@ -1,3 +1,4 @@
+![avatar](avatar320x320.jpg)
 # Dmitry Snapkov  
 ***
 Contacts:  
