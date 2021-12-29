@@ -9,7 +9,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: olive;
+    color: olive ;
 }
 
 * {
@@ -17,10 +17,19 @@ body {
 }
 
 .header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 10px;
+    z-index: 2;
+    background-color: white;
     border: 1px solid red;
 }
 
 .main {
+    padding-left: 20px;
+    margin-top: 108px;
     border: 1px solid red;
 }
 
@@ -39,6 +48,7 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    list-style-type: none;
 }
 
 .nav-item {}
@@ -79,9 +89,15 @@ html {
     color: darkolivegreen;
 }
 
+.section-paragraph {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
 .section-item {
     position: relative;
     padding-left: 30px;
+    list-style: none;
 }
 
 .section-item::before {
@@ -108,4 +124,25 @@ html {
 
 .link:hover {
     color: darkgray;
+}
+
+.avatar {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    transition: 1s;
+}
+
+.avatar:hover {
+    z-index: 1;
+    transform: scale(1.5);
+}
+
+#profile {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
 }
