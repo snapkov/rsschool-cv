@@ -13,31 +13,29 @@
 </head>
 <body>
     <header class="header">
-        <div class="container">
-            <nav class="nav">
-                <ul class="nav-list">
-                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
-                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
-                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
-                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
-                    <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
-                </ul>
-            </nav>
-        </div>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+            </ul>
+        </nav>
     </header>
     <main class="main" class="main-container">
+        <section class="section" id="profile">
+            <img src="avatar320x320.jpg" alt="avatar" class="avatar">
+            <h1 class="section-title">Snapkov Dmitry</h1>
+            <p class="section-paragraph">Web developer</p>
+        </section>
         <div class="container">
-            <section class="section" id="profile">
-                <img src="avatar320x320.jpg" alt="avatar" class="avatar">
-                <h1 class="section-title">Snapkov Dmitry</h1>
-                <p class="section-paragraph">Web developer</p>
-            </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
-                <ul>
+                <ul class="section-list">
                     <li class="section-item">Discord: Dmitry Snapkov (@snapkov)</li>
                     <li class="section-item">Mob. +375 44 545-04-64</li>
                     <li class="section-item">Email: snapkov@gmail.com</li>
@@ -59,22 +57,14 @@
             </section>
             <section class="section" id="code">
                 <h2 class="section-title">Code</h2>
-                <p>
-                    <strong>Code from Codewars</strong>
-                    <br>
-                    Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative. Example: The binary representation of 1234 is 10011010010, so the function should return 5 in this case
-                    <pre>
-                        <code class="language-javascript">
-                            var countBits = function(n) {
-                            // Program Me
-                                if (n >= 0) {
-                                let bin = n.toString(2);
-                                return bin.split('1').length-1;
-                                }
-                            }; 
-                        </code>
-                    </pre>
-                </p>
+                <!-- <p> -->
+                    <pre><code>var countBits = function(n) {
+if (n >= 0) {
+    let bin = n.toString(2);
+    return bin.split('1').length-1;
+    }
+};                  </code></pre>
+                <!-- </p> -->
             </section>
             <section class="section" id="courses">
                 <h2 class="section-title">Courses</h2>
@@ -99,12 +89,13 @@
         </div>
     </main>
     <footer class="footer">
-        <div class="container" id="footer">
-            <div>2021 by Dmitry Snapkov</div>
+        <!-- <div class="container" id="footer"> -->
+            <div><strong>2021 by Dmitry Snapkov</strong></div>
             <div><a href="https://github.com/snapkov" class="footer-link">GitHub</a></div>
             <div><a href="https://rs.school/js/" class="footer-link">RS School</a></div>
             <div><img src="rs_school_js.svg" alt="RS School" class="footer-img"></div>
-        </div>
+        <!-- </div> -->
     </footer>
 </body>
+<script type="text/javascript" src="script.js"></script>
 </html>
