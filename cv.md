@@ -5,6 +5,7 @@
 Contacts:  
 * Discord: Dmitry Snapkov (@snapkov)  
 * Mob. +375 44 545-04-64  
+* Email: <snapkov@gmail.com>
 ***  
 ### About my main aim in Rollig Scopes course:  
 I want to change my current job for maximize my income. Being a developer gives me the opportunity to work remotely. Many remote jobs also come with flexible schedules, it allows me to have a better work-life balance.  
