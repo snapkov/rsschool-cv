@@ -7,12 +7,13 @@ Contacts:
 * Mob. +375 44 545-04-64  
 ***  
 ### About my main aim in Rollig Scopes course:  
-I want to change my current job for maximize my income.  
+I want to change my current job for maximize my income. Being a developer gives me the opportunity to work remotely. Many remote jobs also come with flexible schedules, it allows me to have a better work-life balance.  
 > Success is a science; if you have the conditions, you get the result.  
 
 ### Skills:  
 - JavaScript  
 - HTML  
+- CSS
 - Git  
   
 #### Code from Codewars  
