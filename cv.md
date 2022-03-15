@@ -1,4 +1,5 @@
-![avatar](avatar320x320.jpg)
+![avatar320x320](https://user-images.githubusercontent.com/60675279/158325041-cdd6372c-dbee-4284-a43a-a10f91ac4927.jpg)
+
 # Dmitry Snapkov  
 ***
 Contacts:  
