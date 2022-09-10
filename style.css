@@ -208,9 +208,9 @@ pre {
     width: 96%;
   }
   
-pre code,
+/* pre code, */
 pre .line-number {
-    font:normal normal 12px/14px "Courier New",Courier,Monospace;
+    font:normal normal 18px/26px;
     color:black;
     display:block;
 }
