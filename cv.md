@@ -1,4 +1,4 @@
-![avatar320x320](https://user-images.githubusercontent.com/60675279/158325041-cdd6372c-dbee-4284-a43a-a10f91ac4927.jpg)
+![avatar320x320](https://github.com/snapkov/rsschool-cv/blob/gh-pages/assets/img/avatar320x320.jpg)
 
 # Dmitry Snapkov  
 ***
@@ -7,6 +7,7 @@ Contacts:
 * Mob. +375 44 545-04-64  
 * Email: <snapkov@gmail.com>
 ***  
+
 ### About my main aim in Rollig Scopes course:  
 I want to change my current job for maximize my income. Being a developer gives me the opportunity to work remotely. Many remote jobs also come with flexible schedules, it allows me to have a better work-life balance.  
 > Success is a science; if you have the conditions, you get the result.  
