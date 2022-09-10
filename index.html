@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/svg/rs_school_js.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a href="#contacts" class="nav-link">Contacts</a></li>
+                <li><a href="#summary" class="nav-link">Summary</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#code" class="nav-link">Code</a></li>
+                <li><a href="#courses" class="nav-link">Courses</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#education" class="nav-link">Education</a></li>
+                <li><a href="#english" class="nav-link">English</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+        <section class="section" id="profile">
+            <img src="assets/img/avatar320x320.jpg" alt="avatar" class="avatar">
+            <h1 class="section-title">Snapkov Dmitry</h1>
+            <p class="section-paragraph">Web developer</p>
+        </section>
+        <div class="container">
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul>
+                    <li class="section-item">Discord: Dmitry Snapkov (@snapkov)</li>
+                    <li class="section-item">Mob. +375 44 545-04-64</li>
+                    <li class="section-item">Email: snapkov@gmail.com</li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2 class="section-title">Summary</h2>
+                <p>
+                    Building quality websites and applications with HTML, CSS, and JavaScript.
+                </p>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul>
+                    <li class="section-item">HTML</li>
+                    <li class="section-item">CSS</li>
+                    <li class="section-item">JavaScript</li>
+                    <li class="section-item">Git</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2 class="section-title">Code</h2>
+                <pre>var countBits = function(n) {
+if (n &gt;= 0) {
+    let bin = n.toString(2);
+    return bin.split('1').length-1;
+    }
+};              </pre>
+            </section>
+            <section class="section" id="courses">
+                <h2 class="section-title">Courses</h2>
+                <p>Rolling Scopes: JS-Frontend</p>
+            </section>
+            <section class="section" id="projects">
+                <h2 class="section-title">Projects</h2>
+                <a class="link" href="https://snapkov.github.io/rsschool-cv/">CV</a>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p>
+                    Francisk Skorina Gomel State University, faculty of Physics and Information Technologies, Automated Systems of Information Processing Department.
+                </p>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <ul>
+                    <li class="section-item">English - B1</li>
+                    <li class="section-item">Russian - native</li>
+                    <li class="section-item">Polish - in progress...</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div><strong>2021 by Dmitry Snapkov</strong></div>
+        <div><a href="https://github.com/snapkov" class="footer-link">GitHub</a></div>
+        <div><a href="https://rs.school/js/" class="footer-link">RS School</a></div>
+        <div><img src="assets/svg/rs_school_js.svg" alt="RS School" class="footer-img"></div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
